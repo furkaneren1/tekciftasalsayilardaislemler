@@ -1,0 +1,10 @@
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\bin\Debug\Matematiksel İşlemler.exe.config
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\bin\Debug\Matematiksel İşlemler.exe
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\bin\Debug\Matematiksel İşlemler.pdb
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel İşlemler.csprojAssemblyReference.cache
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel_İşlemler.Form1.resources
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel_İşlemler.Properties.Resources.resources
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel İşlemler.csproj.GenerateResource.cache
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel İşlemler.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel İşlemler.exe
+C:\Users\sabri\Desktop\Matematiksel İşlemler\Matematiksel İşlemler\obj\Debug\Matematiksel İşlemler.pdb
