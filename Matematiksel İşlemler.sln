@@ -1,3 +1,9 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematiksel İşlemler", "Matematiksel İşlemler\Matematiksel İşlemler.csproj", "{23BF4A6F-39F0-4B74-9A6A-C43F7AC57C4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,4 +15,11 @@ Global
 		{23BF4A6F-39F0-4B74-9A6A-C43F7AC57C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23BF4A6F-39F0-4B74-9A6A-C43F7AC57C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23BF4A6F-39F0-4B74-9A6A-C43F7AC57C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F4E796-58AE-45B2-83B4-CC374E7B2E3C}
+	EndGlobalSection
+EndGlobal
